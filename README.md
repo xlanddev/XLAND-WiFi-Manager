@@ -26,7 +26,7 @@ Pre-built application releases are available in the GitHub Releases section.
 | Windows 10/11 (64-bit) | `XLAND-WiFi-Manager-Windows-x64.zip` |
 | Linux (64-bit) | `XLAND-WiFi-Manager-Linux-x64.zip` |
 
-[**⬇️ Download the Latest Version of XLAND WiFi Manager**](../../releases/latest)
+[**⬇️ Download the Latest Version of XLAND WiFi Manager**](https://github.com/xlanddev/XLAND-WiFi-Manager/releases/tag/v0.4.0-alpha)
 
 ### Windows Installation
 
